@@ -2,7 +2,7 @@
 
 <p align="center">
 I'm a C#/JavaScript developer, mainly working as backend for
-cloud services. Most of my experience is based on wokring on
+cloud services. Most of my experience is based on working on
 freelance projects since 2015. Currently learning about data
 science and machine learning using Python, TensorFlow and
 Scikit-Learn.
@@ -15,26 +15,28 @@ Scikit-Learn.
 [![GitHub](https://img.shields.io/github/followers/fahminlb33?label=follow&style=for-the-badge)](https://github.com/fahminlb33)
 [![Website](https://img.shields.io/badge/Website-Kodesiana-blue?style=for-the-badge)](https://kodesiana.com)
 
-💼 Where I'm currently working
+## 💼 Where I'm currently working
 
 * [LogeeTrans by Telkom Indonesia: Backend](https://logeetrans.com)
 
-💻 Language and Tools
+## 💻 Language and Tools
 
 * Visual Studio, Visual Studio Code
 * .NET (Fx/Core), ASP.NET Core, EntityFrameworkCore
-* NodeJS, JavaScript, TypeScript
+* NodeJS, JavaScript, TypeScript, Restify
 * Python, TensorFlow, Scikit-Learn
 * Windows Terminal, PowerShell, WSL 2
+* MSSQL Server, MySQL, MongoDB
 * Git SCM
+* Micro service, event driven, DDD
 
-📚 What I'm interested in
+## 📚 What I'm interested in
 
 * Software Engineering
 * Software Architecture and Security
 * Data Science and Machine Learning
 
-🚄 Open Source Projects
+## 🚄 Open Source Projects
 
 * [KFlearning](https://github.com/fahminlb33/KFlearning), e-learning used in my campus.
 * [Venjix](https://github.com/fahminlb33/Venjix), IOT data collector and visualizer. *Coming Soon!*
