@@ -17,30 +17,21 @@ Scikit-Learn.
 
 ## 💼 Where I'm currently working
 
-* [LogeeTrans by Telkom Indonesia: Backend](https://logeetrans.com)
+* [LogeeTrans by Telkom Indonesia: Backend Developer (NodeJS)](https://logeetrans.com)
 
 ## 💻 Language and Tools
 
-* Visual Studio, Visual Studio Code
-* .NET (Fx/Core), ASP.NET Core, EntityFrameworkCore
-* NodeJS, JavaScript, TypeScript, Restify
+* .NET (Fx/Core/5), ASP.NET Core, EF Core
+* NodeJS, JavaScript/TypeScript, Restify
 * Python, TensorFlow, Scikit-Learn
-* Windows Terminal, PowerShell, WSL 2
 * MSSQL Server, MySQL, MongoDB
-* Git SCM
-* Micro service, event driven, DDD
+* Visual Studio, Visual Studio Code
+* Windows Terminal, PowerShell, WSL 2
 
 ## 📚 What I'm interested in
 
 * Software Engineering
 * Software Architecture and Security
 * Data Science and Machine Learning
-
-## 🚄 Open Source Projects
-
-* [KFlearning](https://github.com/fahminlb33/KFlearning), e-learning used in my campus.
-* [Venjix](https://github.com/fahminlb33/Venjix), IOT data collector and visualizer. *Coming Soon!*
-* [Moviebase](https://github.com/fahminlb33/Moviebase), movie organizer (download posters, infos, etc.). *Currently unmaintained*.
-* [MClam](https://github.com/fahminlb33/MClam), `libclamav` wrapper using P/Invoke.
 
 ![Fahmi Noor Fiqri's github stats](https://github-readme-stats.vercel.app/api?username=fahminlb33&show_icons=true&hide_border=true)
