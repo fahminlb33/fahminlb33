@@ -19,4 +19,4 @@ Scikit-Learn.
 [![GitHub](https://img.shields.io/github/followers/fahminlb33?label=follow&style=for-the-badge)](https://github.com/fahminlb33)
 [![Twitter](https://img.shields.io/twitter/follow/fahminoorfiqri?style=for-the-badge)](https://twitter.com/fahminoorfiqri)
 [![Linkedin](https://img.shields.io/badge/-fahminoorfiqri-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/fahmi-noor-fiqri)
-[![Website](https://img.shields.io/badge/Website-Kodesiana-blue?style=for-the-badge)](https://kodesiana.com)
+[![Website](https://img.shields.io/badge/Blog-Kodesiana-blue?style=for-the-badge)](https://kodesiana.com)
