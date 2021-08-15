@@ -1,22 +1,39 @@
-# Hello! I'm Fahmi Noor Fiqri😄 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+<h1 align="center">
+Hello👋 I'm Fahmi👨‍💻
+</h1>
 
 <p align="center">
-I'm a C#/JavaScript developer, mainly working as backend for
-cloud services. Most of my experience is based on working on
-freelance projects since 2015. Currently learning about data
-science and machine learning using Python, TensorFlow and
-Scikit-Learn.
+I'm a C#/JavaScript/Python developer, mainly working as backend.
+Currently learning about data science and machine learning.
 </p>
 
-* I'm a backend developer (NodeJS) at [LogeeTrans by Telkom Indonesia](https://logeetrans.com)
-* .NET (Fx/Core/5), ASP.NET Core, EF Core
-* NodeJS, JavaScript/TypeScript, Restify
-* Python, TensorFlow, Scikit-Learn
-* MSSQL Server, MySQL, MongoDB
-* Visual Studio, Visual Studio Code
-* Windows Terminal, PowerShell, WSL 2
+<p align="center">
+  I'm a backend developer at <a href="https://logeetrans.com">LogeeTrans by Telkom Indonesia.</a>
+</p>
 
-[![GitHub](https://img.shields.io/github/followers/fahminlb33?label=follow&style=for-the-badge)](https://github.com/fahminlb33)
-[![Twitter](https://img.shields.io/twitter/follow/fahminoorfiqri?style=for-the-badge)](https://twitter.com/fahminoorfiqri)
-[![Linkedin](https://img.shields.io/badge/-fahminoorfiqri-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/fahmi-noor-fiqri)
-[![Website](https://img.shields.io/badge/Blog-Kodesiana-blue?style=for-the-badge)](https://kodesiana.com)
+<p align="center">
+  <a href="https://kodesiana.com"><img src="https://img.shields.io/badge/Blog-Kodesiana.com-blue?style=for-the-badge" /></a><br>
+  <a href="https://www.linkedin.com/in/fahmi-noor-fiqri"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
+  <a href="https://instagram.com/fahminoorfiqri"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/FahmiNoorFiqri"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+  
+<p align="center">
+  I work with💻
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+</p>
+
+<p align="center">
+  You can reach me through Instagram or LinkedIn!
+</p>
