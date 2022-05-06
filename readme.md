@@ -3,8 +3,8 @@ Hello👋 I'm Fahmi👨‍💻
 </h1>
 
 <p align="center">
-I'm a C#/JavaScript/Python developer, mainly working as backend.
-Currently learning about data science and machine learning.
+I'm a C#/JavaScript/Python developer, currently working as backend and DevOps.<br>
+Also data science and machine learning enthusiast.
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@ Currently learning about data science and machine learning.
 
 <p align="center">
   <a href="https://www.kodesiana.com?utm_source=github&utm_medium=profile&utm_campaign=referal"><img src="https://img.shields.io/badge/Blog-Kodesiana.com-blue?style=for-the-badge" /></a><br>
+  <a href="discordapp.com/users/335793244741042176"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/fahmi-noor-fiqri"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
   <a href="https://instagram.com/fahminoorfiqri"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.youtube.com/c/FahmiNoorFiqri"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -31,5 +32,5 @@ Currently learning about data science and machine learning.
 </p>
 
 <p align="center">
-  📬How you can reach me: Instagram and LinkedIn
+  📬How you can reach me: LinkedIn and Discord (preferred)
 </p>
