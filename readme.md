@@ -8,7 +8,7 @@ Currently learning about data science and machine learning.
 </p>
 
 <p align="center">
-  I'm a backend developer at <a href="https://logeetrans.com">LogeeTrans by Telkom Indonesia.</a>
+  I'm a backend developer at <a href="https://logee.id">Logee by Telkom Indonesia.</a>
 </p>
 
 <p align="center">
