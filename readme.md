@@ -3,20 +3,19 @@ Hello👋 I'm Fahmi👨‍💻
 </h1>
 
 <p align="center">
-I'm a C#/JavaScript/Python developer, currently working as backend and DevOps.<br>
-Also data science and machine learning enthusiast.
+I'm a C#/JavaScript (NodeJS) developer, currently working as backend and DevOps.<br>
+I also like to work with data and machine learing stuff.
 </p>
 
 <p align="center">
-  I'm a backend developer at <a href="https://logee.id">Logee by Telkom Indonesia.</a>
+  I'm currently a backend developer at <a href="https://logee.id">Logee by Telkom Indonesia.</a>
 </p>
 
 <p align="center">
   <a href="https://www.kodesiana.com?utm_source=github&utm_medium=profile&utm_campaign=referal"><img src="https://img.shields.io/badge/Blog-Kodesiana.com-blue?style=for-the-badge" /></a><br>
-  <a href="https://discordapp.com/users/335793244741042176"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/fahmi-noor-fiqri"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
-  <a href="https://instagram.com/fahminoorfiqri"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.youtube.com/c/FahmiNoorFiqri"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/fahminoorfiqri"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
   
 <p align="center">
@@ -32,5 +31,5 @@ Also data science and machine learning enthusiast.
 </p>
 
 <p align="center">
-  📬How you can reach me: LinkedIn and Discord (preferred)
+  📬How you can reach me: LinkedIn or <i>fahminlb33[at]gmail.com</i>
 </p>
