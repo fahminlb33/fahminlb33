@@ -31,5 +31,5 @@ I also like to work with data and machine learing stuff.
 </p>
 
 <p align="center">
-  📬How you can reach me: LinkedIn or <i>fahminlb33[at]gmail.com</i>
+  📬How you can reach me: LinkedIn or <i>fahmi@kodesiana.com</i>
 </p>
