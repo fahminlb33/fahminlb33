@@ -8,7 +8,7 @@ I also like to work with data and machine learing stuff.
 </p>
 
 <p align="center">
-  I'm currently a backend developer at <a href="https://logee.id">Logee by Telkom Indonesia.</a>
+  I'm currently open to work :)
 </p>
 
 <p align="center">
