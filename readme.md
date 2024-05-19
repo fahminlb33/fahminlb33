@@ -3,7 +3,7 @@ Hello👋 I'm Fahmi👨‍💻
 </h1>
 
 <p align="center">
-I'm a C#/Python/JavaScriptS/Go developer and currently a master's student at IPB University<br>
+I'm a C#/Python/Go/JavaScript developer and currently a master's student at IPB University<br>
 I also like to work with data and machine learing stuff.
 </p>
 
